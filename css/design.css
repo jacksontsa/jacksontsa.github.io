@@ -39,3 +39,59 @@ section.work {
    box-shadow:2px 0px 5.5px;
    margin-bottom: 10px;
  }
+ #med {
+   width: 50%;
+   float: right;
+ }
+ #medpic {
+   width: 48%;
+   float: left;
+   margin-top: 19px;
+ }
+ #app {
+   height: 1275px;
+ }
+ #mil {
+   width: 50%;
+   float: left;
+   margin-top: 40px;
+ }
+ #milpic {
+   width: 48%;
+   float: right;
+ }
+ #edpic {
+   width: 48%;
+   float: left;
+ }
+ #ed {
+   width: 50%;
+   float: right;
+   margin-top: 40px;
+ }
+#concpic {
+  align-items: center;
+}
+#concerns {
+  height: 750px;
+}
+.left {
+  width: 48%;
+  float: left;
+}
+.right {
+  width: 48%;
+  float: right;
+}
+#sec {
+  margin-top: 90px;
+}
+#comp {
+  height: 900px;
+}
+#third {
+  margin-top: 65px;
+}
+#vid {
+  height: 600px;
+}
