@@ -40,3 +40,19 @@ section.content {
   float: left;
   width: 50%;
 }
+section.content1 {
+ background-color: #ffffff;
+ color: #333333;
+ height: 1000px;
+ margin: 0 auto;
+ overflow: hidden;
+ padding: 200px 0;
+ }
+#team {
+  width: 50%;
+  float: right;
+}
+#awards {
+  width: 50%;
+  float: left;
+}
