@@ -1,6 +1,4 @@
-body {
-  background-color: #45c695;
-}
+
 #cte2{
 background:url('../img/pen-tablet.jpg') 50% 0 no-repeat fixed;
 color: #fff;
@@ -26,7 +24,7 @@ background-size: cover;
   float: left;
   text-align: center;
   width: 33.33%;
-  height: 240px;
+  height: 400px;
 }
 .overlay    {
   width: 100%
@@ -38,16 +36,11 @@ background-size: cover;
 .title {
   opacity:1;
   -webkit-transition: opacity .25s ease;
-  position: absolute;
   text-align: center;
 }
 .segment:hover .overlay {
   opacity:1;
              }
-.segment:hover .title {
-  opacity:0;
-}
-
 .tag {
   float: left;
   text-align: center;
@@ -55,13 +48,23 @@ background-size: cover;
   height: 80px;
   font-family: Oswald;
   padding-top: 40px;
-  background-color: #45c695;
+  background-color: #007caf;
+  box-shadow: 10px 0px 20px;
+  margin-bottom: 20px
 }
 .tag:hover {
-  background-color: #2CAD7C;
+  background-color: #006396;
   text-decoration: underline;
 }
 
-#biz1, #biz2, #biz3, #biz7, #biz8, #biz9, #cs4,#cs5,#cs6 {
-  background-color: #5546C7;
+#biz1, #biz2, #biz3, #biz7, #biz8, #biz9, #cs4,#cs5,#cs6, #em2, #em3, #em4, #hs2, #hs3, #hs4, #hum2, #hum3, #hum4, #vc2, #vc3,#vc4, #vc8, #vc9,#vc10{
+  background-color: #007caf;
+  border-style: solid;
+  border-top-style:solid;
+  border-bottom-style:solid;
+  border-left-style:none;
+  border-right-style:none;
+  border-color:#ff8000;
+  border-width: 3px;
+  box-shadow:2px 0px 5.5px;
 }
