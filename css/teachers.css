@@ -1,64 +1,4 @@
-body{
-margin: 0;
-padding: 0;
-width: 100%;
-}
-p {
-  font-family: Oswald;
-}
-h1 {
-font-family: Oswald;
-font-weight: normal;
-font-size: 55px;
-text-align: center;
-margin: 0;
-padding: 0;
-}
-h2 {
-font-family: Oswald;
-font-weight: normal;
-font-size: 40px;
-text-align: center;
-margin: 0;
-padding: 0;
-}
-h3 {
-font-family: Oswald;
-font-weight: normal;
-font-size: 16px;
-text-align: center;
-margin: 5px 0;
-padding: 0;
-z-index: 1;
-position: relative;
-}
-.center { margin: 0 auto; }
-.content{ margin: 0 auto; width: 960px; }
-.clear { clear: both; }
-#header {
-width: 100%;
-background: url('../img/header-bg.png');
-height: 80px;
-position: fixed;
-}
-#nav { width: 600px; float: right; margin-top: 20px; }
-#logo a { color: #fff; text-decoration: none; float: left; font-size: 30px; margin-top: 20px; color: #fff; font-family:Oswald; font-weight: bold; }
-#nav ul{
-list-style: none;
-display: block;
-margin: 0 auto;
-list-style: none;
-}
-#nav li{
-margin-top: 9px;
-float: left;
-padding-left: 21px;
-}
-#nav li a { color: #fff; opacity:0.6; font-size: 16px; text-decoration: none; font-family: Oswald; }
-#nav li a:hover { color: #fff; opacity:1; }
-section.module.content {
-  padding: 40px 0;
-}
+
 section.module.parallax {
   padding: 240px 0;
   background-position: 0 0;
@@ -75,8 +15,29 @@ section.module.parallax {
 section.content {
  background-color: #ffffff;
  color: #333333;
- height: 360px;
+ height: 900px;
  margin: 0 auto;
  overflow: hidden;
  padding: 200px 0;
+ }
+ .split {
+   width: 960px;
+   margin: 0 auto;
+ }
+ .teacher {
+   float: left;
+   text-align: center;
+   width: 33.33%;
+   height: 150px;
+ }
+ .one, .three, .five {
+   background-color: #007caf;
+   border-style: solid;
+   border-top-style:solid;
+   border-bottom-style:solid;
+   border-left-style:none;
+   border-right-style:none;
+   border-color:#ff8000;
+   border-width: 3px;
+   box-shadow:2px 0px 5.5px;
  }
