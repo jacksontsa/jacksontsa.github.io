@@ -1,7 +1,7 @@
-#tsabkgd{
-background:url('../img/jackson.jpg') 50% 0 no-repeat fixed;
+#desbkgd{
+background:url('../img/arphoto.jpg') 50% 0 no-repeat fixed;
 color: #fff;
-height: 200px;
+height: 400px;
 margin: 0;
 padding: 200px 0 260px 0;
 background-size: cover;
@@ -14,10 +14,18 @@ section.module.parallax {
 section.work {
  background-color: #ffffff;
  color: #333333;
- height: 500px;
+ height: 600px;
  margin: 0 auto;
  overflow: hidden;
  padding: 200px 0;
+ }
+ #intro {
+   width: 50%;
+   float: left;
+ }
+ #poke {
+   width: 50%;
+   float: right;
  }
  .emblem {
    background-color: #007caf;
@@ -31,28 +39,3 @@ section.work {
    box-shadow:2px 0px 5.5px;
    margin-bottom: 10px;
  }
-#verizon {
-  float: right;
-  width: 50%;
-  margin-top: 20px;
-}
-#desc {
-  float: left;
-  width: 50%;
-}
-section.content1 {
- background-color: #ffffff;
- color: #333333;
- height: 1000px;
- margin: 0 auto;
- overflow: hidden;
- padding: 200px 0;
- }
-#team {
-  width: 50%;
-  float: right;
-}
-#awards {
-  width: 50%;
-  float: left;
-}
