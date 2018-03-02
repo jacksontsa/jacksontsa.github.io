@@ -90,6 +90,9 @@ section.work {
 #comp {
   height: 1400px;
 }
+#use {
+  height: 1100px;
+}
 #costs {
   height: 500px;
 }
@@ -101,4 +104,7 @@ section.work {
 }
 #vid {
   height: 600px;
+}
+.brk {
+  width:960px;
 }
