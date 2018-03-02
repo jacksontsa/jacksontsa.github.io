@@ -50,7 +50,7 @@ section.work {
    margin-top: 19px;
  }
  #app {
-   height: 550px;
+   height: 600px;
  }
  #mil {
    width: 50%;
@@ -88,10 +88,13 @@ section.work {
   margin-top: 90px;
 }
 #comp {
-  height: 900px;
+  height: 1200px;
+}
+#costs {
+  height: 500px;
 }
 #compn {
-  height: 380px;
+  height: 320px;
 }
 #third {
   margin-top: 65px;
