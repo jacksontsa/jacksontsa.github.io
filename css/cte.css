@@ -26,16 +26,16 @@ background-size: cover;
   box-shadow:2px 0px 5.5px;
 }
 #left:hover {
-  background-color: #2d5330;
-  color: #fff;
+  background-color: #36633a;
+
 }
 #center:hover {
-  background-color: #2d5330;
-  color: #fff;
+  background-color: #36633a;
+
 }
 #right:hover {
-  background-color: #2d5330;
-  color: #fff;
+  background-color: #36633a;
+
 }
 #center {
   float: left;
