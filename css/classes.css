@@ -58,13 +58,13 @@ background-size: cover;
 }
 
 #biz1, #biz2, #biz3, #biz7, #biz8, #biz9, #cs4,#cs5,#cs6, #em2, #em3, #em4, #hs2, #hs3, #hs4, #hum2, #hum3, #hum4, #vc2, #vc3,#vc4, #vc8, #vc9,#vc10{
-  background-color: #007caf;
+  background-color: #437c49;
   border-style: solid;
   border-top-style:solid;
   border-bottom-style:solid;
   border-left-style:none;
   border-right-style:none;
-  border-color:#ff8000;
+  border-color:#791313;
   border-width: 3px;
   box-shadow:2px 0px 5.5px;
 }
