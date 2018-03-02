@@ -48,12 +48,12 @@ background-size: cover;
   height: 80px;
   font-family: Oswald;
   padding-top: 40px;
-  background-color: #007caf;
+  background-color: #437c49;
   box-shadow: 10px 0px 20px;
   margin-bottom: 20px
 }
 .tag:hover {
-  background-color: #006396;
+  background-color: #2d5330;
   text-decoration: underline;
 }
 
