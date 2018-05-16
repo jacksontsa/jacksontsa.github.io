@@ -20,15 +20,15 @@ section.work {
  padding: 200px 0;
  }
  .emblem {
-   background-color: #437c49;
+   background-color: #90afc5;
   border-style: solid;
   border-top-style:solid;
   border-bottom-style:solid;
   border-left-style:none;
   border-right-style:none;
-  border-color:#791313;
+  border-color:#2a3132;
    border-width: 3px;
-   box-shadow:2px 0px 5.5px;
+   box-shadow:0px 0px 0px;
    margin-bottom: 10px;
  }
 #verizon {
@@ -42,7 +42,7 @@ section.work {
 }
 section.content1 {
  background-color: #ffffff;
- color: #333333;
+ color: #90afc5;
  height: 2100px;
  margin: 0 auto;
  overflow: hidden;
